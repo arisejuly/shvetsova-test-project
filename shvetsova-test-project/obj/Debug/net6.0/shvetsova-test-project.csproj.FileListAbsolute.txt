@@ -1,0 +1,15 @@
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/bin/Debug/net6.0/shvetsova-test-project
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/bin/Debug/net6.0/shvetsova-test-project.deps.json
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/bin/Debug/net6.0/shvetsova-test-project.runtimeconfig.json
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/bin/Debug/net6.0/shvetsova-test-project.dll
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/bin/Debug/net6.0/shvetsova-test-project.pdb
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/shvetsova-test-project.csproj.AssemblyReference.cache
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/shvetsova-test-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/shvetsova-test-project.AssemblyInfoInputs.cache
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/shvetsova-test-project.AssemblyInfo.cs
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/shvetsova-test-project.csproj.CoreCompileInputs.cache
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/shvetsova-test-project.dll
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/refint/shvetsova-test-project.dll
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/shvetsova-test-project.pdb
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/shvetsova-test-project.genruntimeconfig.cache
+/Users/lorentzimys/Projects/shvetsova-test-project/shvetsova-test-project/obj/Debug/net6.0/ref/shvetsova-test-project.dll

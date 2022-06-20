@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8F087F10-0B7E-41B4-B852-9DE26F375B8B}|Default">
+  <MonoDevelop.Ide.ItemProperties.shvetsova-test-project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="shvetsova-test-project/Program.cs">
+    <Files>
+      <File FileName="shvetsova-test-project/Program.cs" Line="38" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shvetsova-test-project" expanded="True">
+            <Node name="shvetsova-test-project" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
